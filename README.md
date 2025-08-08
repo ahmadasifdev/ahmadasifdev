@@ -1,3 +1,6 @@
+
+<img width="2000" height="600" alt="Black Elegant Minimalist Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/297f4d31-506f-470d-bd2e-a7630e6114c7" />
+
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
 <h3 align="center">A passionate Full Stack developer</h3>
 
@@ -23,4 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadahmad&show_icons=true&locale=en&layout=compact" alt="muhammadahmad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadahmad&show_icons=true&locale=en" alt="muhammadahmad" /></p>
-
