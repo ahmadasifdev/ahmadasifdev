@@ -2,13 +2,11 @@
 <img width="2000" height="600" alt="Black Elegant Minimalist Profile LinkedIn Banner" src="https://github.com/user-attachments/assets/297f4d31-506f-470d-bd2e-a7630e6114c7" />
 
 <h1 align="center">Hi 👋, I'm Muhammad Ahmad</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
-
+<h3 align="center">A passionate Mern Stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhammadahmad&label=Profile%20views&color=0e75b6&style=flat" alt="muhammadahmad" /> </p>
 
-
-- 🌱 I’m currently learning **Agentic Ai**
+- 🌱 I’m currently learning **Software Engineering**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ahmadasifdev](https://github.com/ahmadasifdev)
 
@@ -29,3 +27,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhammadahmad&show_icons=true&locale=en&layout=compact" alt="muhammadahmad" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadahmad&show_icons=true&locale=en" alt="muhammadahmad" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadahmad&" alt="muhammadahmad" /></p>
